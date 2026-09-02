@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="img_6065" size="10.000000 15.185654" />
+    <ImageTarget name="img_6064" size="10.000000 13.772639" />
+    <ImageTarget name="carta3magic" size="10.000000 14.465754" />
+    <ImageTarget name="carta2magic" size="10.000000 13.678474" />
+    <ImageTarget name="cartamagic" size="10.000000 13.846154" />
+  </Tracking>
+</QCARConfig>
